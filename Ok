@@ -1,0 +1,230 @@
+echo "# cpa" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Jmoney219/cpa.git
+git push -u origin main
+
+<meta content='width=device-width, initial-scale=1 maximum-scale=1' name='viewport' />
+<div class="display">
+<div style='background:#292929;position:relative;top:-20px;padding:10px;'>
+    <h1 style='font-size:1.5em;color:#fff'><i class='glyphicon glyphicon-folder-open'></i> PDF Downloads</h1>
+</div>
+<div style='max-width:600px;padding:10px;margin:0px auto;background:#eee;border:10px solid #fff;box-shadow:0px 0px 3px #777'>
+    <div class="row">
+        <div class="column1">
+            <img style='width:100%;max-width:80px;' src='https://i.imgur.com/T9SDnqE.png' align="right">
+        </div>
+        <div class="column2">
+            <ul>
+                <li><b>Filename :</b> How.To.Make.Money.Guide.pdf </li>
+                <li><b>Size :</b> 34MB</li>
+                <li><b>Date Uploaded :</b> 4 mos ago</li>
+                <li><b>File Type :</b> PDF(ebook)</li>
+                <li><b>File Status :</b>
+                    <font color='green'>Available</font>
+                </li>
+            </ul>
+        </div>
+    </div>
+    {%offers%}
+    <br>After successful participation of an offer your download will begin automatically.<br><br>
+    <div style='background:#fff;padding:10px;'>
+        <h2 style='font-size:1.3em'>About PDF Files</h2>
+        Developed by Adobe Systems, a file with the .PDF file extension is a Portable Document Format file.<br><br> PDF files can contain not only images and text, but also interactive buttons, hyperlinks, embedded fonts, video, and more.<br><br> You'll
+        often see product manuals, eBooks, flyers, job applications, scanned documents, brochures, and all sorts of other documents available in the PDF format.<br><br> Because PDFs don't rely on the software that created them, nor on any particular operating
+        system or hardware, they look the same no matter what device they're opened on.
+    </div>
+</div>
+<div>
+    <div id="rock">
+        <b>1,479 Comments</b>
+        <div id="fblike" style="float:right"></div>
+        <hr/>
+        <input id="comment" placeholder="Add a Comment..."></input>
+        <button id="post">Post</button>
+        <input id="check" type="checkbox">
+        <font style="color:#aaa">Also Post on Facebook</font>
+        </input>
+        <div style="clear:both"></div>
+        <br/>
+        <table>
+            <tr>
+                <td valign="top" style="padding:3px;">
+                    <img id="profile" src="https://i.gyazo.com/08f1d710bff5c0bd1ff38c3e61659245.png">
+                </td>
+                <td valign="top" style="padding:3px;">
+                    <p id="name">Karen Daniels</p>
+                    <p id="message">Thank you so much for posting this, I've been looking for this book everywhere! Saved me a lot of money!</p>
+                    <p id="soci">
+                        <font id="link-a">Like</font> ·
+                        <font id="link-a">Reply</font>
+                        <font style="color:#aaa">1 minute ago</font>
+                    </p>
+                </td>
+            </tr>
+        </table>
+        <br/>
+        <table>
+            <tr>
+                <td valign="top" style="padding:3px;">
+                    <img id="profile" src="https://i.imgur.com/oX6r0w7.png">
+                </td>
+                <td valign="top" style="padding:3px;">
+                    <p id="name">Verna Elliott</p>
+                    <p id="message">I FINALLY FOUND THIS BOOK THANKS</p>
+                    <p id="soci">
+                        <font id="link-a">Like</font> ·
+                        <font id="link-a">Reply</font>
+                        <font style="color:#aaa">3 minutes ago</font>
+                    </p>
+                </td>
+            </tr>
+        </table>
+        <br/>
+        <table>
+            <tr>
+                <td valign="top" style="padding:3px;">
+                    <img id="profile" src="https://i.imgur.com/OmiFgJB.png">
+                </td>
+                <td valign="top" style="padding:3px;">
+                    <p id="name">Jackie Veronica</p>
+                    <p id="message">Thank you. I got it.</p>
+                    <p id="soci">
+                        <font id="link-a">Like</font> ·
+                        <font id="link-a">Reply</font>
+                        <font style="color:#aaa">4 minutes ago</font>
+                    </p>
+                </td>
+            </tr>
+        </table>
+        <br/>
+        <table>
+            <tr>
+                <td valign="top" style="padding:3px;">
+                    <img id="profile" src="https://i.imgur.com/SpPuGgE.png">
+                </td>
+                <td valign="top" style="padding:3px;">
+                    <p id="name">Sharon Vawser</p>
+                    <p id="message">so glad I was finally able to find this, been looking all over, thanks again.</p>
+                    <p id="soci">
+                        <font id="link-a">Like</font> ·
+                        <font id="link-a">Reply</font>
+                        <font style="color:#aaa">7 minutes ago</font>
+                    </p>
+                </td>
+            </tr>
+        </table>
+        <br/>
+        <table>
+            <tr>
+                <td valign="top" style="padding:3px;">
+                    <img id="profile" src="https://i.imgur.com/rUwe3cg.png">
+                </td>
+                <td valign="top" style="padding:3px;">
+                    <p id="name">Kristina Mendoza</p>
+                    <p id="message">working.. survey was easy, no complaints from me just make sure you put in real data for the survey or they wont complete.</p>
+                    <p id="soci">
+                        <font id="link-a">Like</font> ·
+                        <font id="link-a">Reply</font>
+                        <font style="color:#aaa">8 minutes ago</font>
+                    </p>
+                </td>
+            </tr>
+        </table>
+        <br/>
+        <div id="hidden">
+            <table>
+                <tr>
+                    <td valign="top" style="padding:3px;">
+                        <img id="profile" src="https://i.imgur.com/tdYV9nS.png">
+                    </td>
+                    <td valign="top" style="padding:3px;">
+                        <p id="name">Romeo Gomez</p>
+                        <p id="message">Thank you i got mine.</p>
+                        <p id="soci">
+                            <font id="link-a">Like</font> ·
+                            <font id="link-a">Reply</font>
+                            <font style="color:#aaa">12 minutes ago</font>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+            <br/>
+            <table>
+                <tr>
+                    <td valign="top" style="padding:3px;">
+                        <img id="profile" src="https://i.imgur.com/YIf1goS.jpg">
+                    </td>
+                    <td valign="top" style="padding:3px;">
+                        <p id="name">Jessica Stewart</p>
+                        <p id="message">I love it.</p>
+                        <p id="soci">
+                            <font id="link-a">Like</font> ·
+                            <font id="link-a">Reply</font>
+                            <font style="color:#aaa">13 minutes ago</font>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+            <br/>
+            <table>
+                <tr>
+                    <td valign="top" style="padding:3px;">
+                        <img id="profile" src="https://i.imgur.com/A6VzjXZ.jpg">
+                    </td>
+                    <td valign="top" style="padding:3px;">
+                        <p id="name">Angelica Foy</p>
+                        <p id="message">Thank you.</p>
+                        <p id="soci">
+                            <font id="link-a">Like</font> ·
+                            <font id="link-a">Reply</font>
+                            <font style="color:#aaa">16 minutes ago</font>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+            <br/>
+            <table>
+                <tr>
+                    <td valign="top" style="padding:3px;">
+                        <img id="profile" src="https://i.imgur.com/E41fkXN.png">
+                    </td>
+                    <td valign="top" style="padding:3px;">
+                        <p id="name">Richard Noblitt</p>
+                        <p id="message">Thank you so much.</p>
+                        <p id="soci">
+                            <font id="link-a">Like</font> ·
+                            <font id="link-a">Reply</font>
+                            <font style="color:#aaa">16 minutes ago</font>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+            <br/>
+            <table>
+                <tr>
+                    <td valign="top" style="padding:3px;">
+                        <img id="profile" src="https://i.imgur.com/ERvVrXH.png">
+                    </td>
+                    <td valign="top" style="padding:3px;">
+                        <p id="name">Chelsie White</p>
+                        <p id="message">This is real. Thank you for this..</p>
+                        <p id="soci">
+                            <font id="link-a">Like</font> ·
+                            <font id="link-a">Reply</font>
+                            <font style="color:#aaa">20 minutes ago</font>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+            <br/>
+        </div>
+        <center>
+            <img id="load" style="display:none;margin-bottom:20px;width:25px" src="https://i.imgur.com/qqyqtvq.gif">
+            <button id="load-more" onclick="$(this).hide();$('#load').show();setTimeout(function(){$('#hidden').show(0);$('#load-more').show();$('#load').hide();},2000);"><b>Load more comments..</b>
+                </button>
+        </center>
+    </div>
+</div>
